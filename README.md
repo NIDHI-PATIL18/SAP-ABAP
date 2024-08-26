@@ -1,5 +1,5 @@
-This file inclueds all the SAP ABAp related Practice codes.
+This file inclueds all the SAP ABAP related Practice codes.
 <br>
- Pull the rempote files inside the locl system.
+ Pull the remote files inside the local system.
 
  
